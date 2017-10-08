@@ -1,0 +1,10 @@
+c:\users\steve\source\repos\DateDifference\DateDifference\bin\Debug\netcoreapp1.1\DateDifference.deps.json
+c:\users\steve\source\repos\DateDifference\DateDifference\bin\Debug\netcoreapp1.1\DateDifference.runtimeconfig.json
+c:\users\steve\source\repos\DateDifference\DateDifference\bin\Debug\netcoreapp1.1\DateDifference.runtimeconfig.dev.json
+c:\users\steve\source\repos\DateDifference\DateDifference\bin\Debug\netcoreapp1.1\DateDifference.dll
+c:\users\steve\source\repos\DateDifference\DateDifference\bin\Debug\netcoreapp1.1\DateDifference.pdb
+c:\users\steve\source\repos\DateDifference\DateDifference\obj\Debug\netcoreapp1.1\DateDifference.csprojResolveAssemblyReference.cache
+c:\users\steve\source\repos\DateDifference\DateDifference\obj\Debug\netcoreapp1.1\DateDifference.csproj.CoreCompileInputs.cache
+c:\users\steve\source\repos\DateDifference\DateDifference\obj\Debug\netcoreapp1.1\DateDifference.AssemblyInfo.cs
+c:\users\steve\source\repos\DateDifference\DateDifference\obj\Debug\netcoreapp1.1\DateDifference.dll
+c:\users\steve\source\repos\DateDifference\DateDifference\obj\Debug\netcoreapp1.1\DateDifference.pdb
